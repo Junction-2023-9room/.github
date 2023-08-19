@@ -10,21 +10,15 @@ Our service is dedicated to connecting businesses and individuals with waste man
 
 ### Team Members
 
-![name-tag](./README.assets/name-tag.jpg)
+![name-tag](./README.assets/d8954217-831e-4727-86c0-704f3a8ea99b.jpeg)
 
-**Designer:**  
-- **SengEun Park**
-
-**Frontend Developers:**  
-
-- **SuMi Byun**
-- **SeungHyun Lim**
-
-**Backend Developer:**  
-- **GunHo Park**
-
-**Planner:**  
-- **SangHyuk Ko**
+| Name               | Role                   |
+| ------------------ | ---------------------- |
+| ***SengEun Park*** | **Designer**           |
+| **SuMi Byun**      | **Frontend Developer** |
+| **SeungHyun Lim**  | **Frontend Developer** |
+| **GunHo Park**     | **Backend Developer**  |
+| **SangHyuk Ko**    | **Planner**            |
 
 <br/>
 
@@ -45,5 +39,3 @@ Our service is dedicated to connecting businesses and individuals with waste man
 3. Get matched with a suitable waste management company.
 4. Arrange a pick-up or drop-off time.
 5. Leave a review and help others make informed decisions!
-
----
