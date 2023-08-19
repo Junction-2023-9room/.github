@@ -10,7 +10,7 @@ Our service is dedicated to connecting businesses and individuals with waste man
 
 ### Team Members
 
-![name-tag](./README.assets/d8954217-831e-4727-86c0-704f3a8ea99b.jpeg)
+![name-tag](https://github.com/Junction-2023-9room/.github/assets/41619898/dbdc49a2-ec11-45ab-8907-c28f8c34f5b8)
 
 | Name               | Role                   |
 | ------------------ | ---------------------- |
