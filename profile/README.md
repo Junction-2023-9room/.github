@@ -16,13 +16,13 @@ Our service is dedicated to connecting businesses and individuals with waste man
 
 ![name-tag](https://github.com/Junction-2023-9room/.github/assets/41619898/dbdc49a2-ec11-45ab-8907-c28f8c34f5b8)
 
-| Name               | Role                   |
-| ------------------ | ---------------------- |
-| **_SengEun Park_** | **Designer**           |
-| **SuMi Byun**      | **Frontend Developer** |
-| **SeungHyun Lim**  | **Frontend Developer** |
-| **GunHo Park**     | **Backend Developer**  |
-| **SangHyuk Ko**    | **Planner**            |
+| Name              | Role                   |
+| ----------------- | ---------------------- |
+| **SeungHyun Lim** | **Designer**           |
+| **SuMi Byun**     | **Frontend Developer** |
+| **SengEun Park**  | **Frontend Developer** |
+| **GunHo Park**    | **Backend Developer**  |
+| **SangHyuk Ko**   | **Planner**            |
 
 <br/>
 
