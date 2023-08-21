@@ -4,6 +4,8 @@
 
 <br/>
 
+> slide: [link](https://www.slideshare.net/ssuser2f29ed/9room-autowasterevolutioning-waste-disposal-with-technologypdf)
+
 ## Introduction
 
 Our service is dedicated to connecting businesses and individuals with waste management companies that suit their specific needs. With growing concerns about the environment, it's crucial now more than ever to ensure that waste is disposed of correctly. Our platform makes this process simple, efficient, and environmentally friendly.
@@ -16,13 +18,13 @@ Our service is dedicated to connecting businesses and individuals with waste man
 
 ![name-tag](https://github.com/Junction-2023-9room/.github/assets/41619898/dbdc49a2-ec11-45ab-8907-c28f8c34f5b8)
 
-| Name              | Role                   |
-| ----------------- | ---------------------- |
-| **SeungHyun Lim** | **Designer**           |
-| **SuMi Byun**     | **Frontend Developer** |
-| **SengEun Park**  | **Frontend Developer** |
-| **GunHo Park**    | **Backend Developer**  |
-| **SangHyuk Ko**   | **Planner**            |
+| Name              | Role                   | GitHub                                    |
+| ----------------- | ---------------------- | ----------------------------------------- |
+| **SeungHyun Lim** | **Designer**           | [dkch777](https://github.com/dkch777)     |
+| **SuMi Byun**     | **Frontend Developer** | [sumi-0011](https://github.com/sumi-0011) |
+| **SengEun Park**  | **Frontend Developer** | [bbung95](https://github.com/bbung95)     |
+| **GunHo Park**    | **Backend Developer**  | [gunh0](https://github.com/gunh0)         |
+| **SangHyuk Ko**   | **Planner**            |                                           |
 
 <br/>
 
