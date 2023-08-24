@@ -62,7 +62,9 @@ Our service is dedicated to connecting businesses and individuals with waste man
 
 <br/>
 
-### Demo
+<br/>
+
+## Demonstration
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github.com/Junction-2023-9room/.github/assets/41619898/601a6b40-94e7-4a15-a917-70ed5cc55f1c" style="max-width: 100%; max-height: 100%; object-fit: cover;">
