@@ -1,8 +1,8 @@
 # Junction Asia 2023 `9room` team
 
-### General Waste Management Matching Service : `AutoWaste`
+### General Waste Management Matching Service : `autoWaste`
 
-> SlideShare: [link](https://www.slideshare.net/ssuser2f29ed/9room-autowasterevolutioning-waste-disposal-with-technologypdf)
+> SlideShare: [Link](https://www.slideshare.net/ssuser2f29ed/9room-autowasterevolutioning-waste-disposal-with-technologypdf)
 
 <br/>
 
@@ -34,11 +34,11 @@ Our service is dedicated to connecting businesses and individuals with waste man
 
 ### **Solution**
 
-1. **For Institutions - AutoWaste**:
+1. **For Institutions - `autoWaste`**:
     - Guidance on waste disposal methods, especially important regulations.
-    - Price comparison and recommendations, prioritizing companies like SK Ecoplant that utilize Jaka Robot for cost optimization.
-2. **For Companies - Jaka Robot**:
-    - Introducing one Jaka Robot can:
+    - Price comparison and recommendations, prioritizing companies like SK Ecoplant that utilize JAKA Robot for cost optimization.
+2. **For Companies - JAKA Robotics**:
+    - Introducing one JAKA Robot can:
         - Enhance productivity by 1.5 times compared to human labor.
         - Save up to 45 million KRW annually.
 
@@ -54,10 +54,10 @@ Our service is dedicated to connecting businesses and individuals with waste man
 
 <br/>
 
-### **Technological Innovation with Jaka Robot in Waste Management**
+### **Technological Innovation with JAKA Robot in Waste Management**
 
 1. **Hazardous Waste Management Challenges**: Emphasizes the need for correct and safe management due to the risks posed by hazardous waste.
-2. **Role of Robotics**: Robotics, especially Jaka Robot, play a pivotal role in hazardous waste management, ensuring safety and efficiency.
+2. **Role of Robotics**: Robotics, especially JAKA Robot, play a pivotal role in hazardous waste management, ensuring safety and efficiency.
 3. **Reducing Hazardous Waste**: Robotics significantly improve hazardous waste management, ensuring environmental sustainability.
 
 <br/>
