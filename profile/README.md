@@ -2,9 +2,9 @@
 
 ### General Waste Management Matching Service : `AutoWaste`
 
-<br/>
+> SlideShare: [link](https://www.slideshare.net/ssuser2f29ed/9room-autowasterevolutioning-waste-disposal-with-technologypdf)
 
-> slide: [link](https://www.slideshare.net/ssuser2f29ed/9room-autowasterevolutioning-waste-disposal-with-technologypdf)
+<br/>
 
 ## Introduction
 
