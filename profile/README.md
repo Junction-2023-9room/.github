@@ -59,3 +59,11 @@ Our service is dedicated to connecting businesses and individuals with waste man
 1. **Hazardous Waste Management Challenges**: Emphasizes the need for correct and safe management due to the risks posed by hazardous waste.
 2. **Role of Robotics**: Robotics, especially Jaka Robot, play a pivotal role in hazardous waste management, ensuring safety and efficiency.
 3. **Reducing Hazardous Waste**: Robotics significantly improve hazardous waste management, ensuring environmental sustainability.
+
+<br/>
+
+### Demo
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github.com/Junction-2023-9room/.github/assets/41619898/0241ca51-8d74-428e-97b9-e47bab87415e" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+</div>
